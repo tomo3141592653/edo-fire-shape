@@ -1,0 +1,6 @@
+[
+  {"id": 1, "date": "享保十二年十二月六日", "whole_fire": true, "length_ken": 660, "width_ken": 90, "length_is_nobe": false, "width_is_average": false, "wind": null, "start_time": "未刻", "end_time": "夜入鎭", "note": "伊達治家記録の記事が十二月六日の火事全体を縦横で述べていると読んだ。年代炎上鑑には「暮時鎭ル」とある。"},
+  {"id": 2, "date": "慶應二年十二月廿九日", "whole_fire": true, "length_ken": 660, "width_ken": 90, "length_is_nobe": false, "width_is_average": false, "wind": null, "start_time": null, "end_time": null, "note": "同じ日の本郷春木町の火事（長五町餘幅二町四十間）とは別に小川町で「亦火ヲ失ス」とある別の出火の類焼範囲と読んだ。春木町からの飛び火の続きなら一部分になる。"},
+  {"id": 3, "date": "享保十二年十二月十日", "whole_fire": false, "length_ken": 1080, "width_ken": 300, "length_is_nobe": false, "width_is_average": false, "wind": "烈風大火ト爲リ", "start_time": "申刻", "end_time": "夜半頃鎭", "note": "麹町二丁目から溜池までの区間だけで、佐久間町から金杉までの区間（事例4）が別に書かれている。"},
+  {"id": 4, "date": "享保十二年十二月十日", "whole_fire": false, "length_ken": 1020, "width_ken": 120, "length_is_nobe": false, "width_is_average": false, "wind": "烈風大火ト爲リ", "start_time": "申刻", "end_time": "夜半頃鎭", "note": "佐久間町から金杉表三丁目までの区間だけで、麹町側の区間（事例3）と合わせて一つの火事。"}
+]

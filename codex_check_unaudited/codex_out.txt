@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "date": "享保十二年十二月六日",
+    "whole_fire": true,
+    "length_ken": 660,
+    "width_ken": 90,
+    "length_is_nobe": false,
+    "width_is_average": false,
+    "wind": null,
+    "start_time": "未刻",
+    "end_time": "夜入鎭",
+    "note": "麴町から赤坂辺までの一つの火事の延焼範囲全体を示す記述と判断した。"
+  },
+  {
+    "id": 2,
+    "date": "慶應二年十二月廿九日",
+    "whole_fire": false,
+    "length_ken": 660,
+    "width_ken": 90,
+    "length_is_nobe": false,
+    "width_is_average": false,
+    "wind": null,
+    "start_time": null,
+    "end_time": null,
+    "note": "本郷春木町からの火事による飛火先の類焼範囲を示しており、火事全体の焼失範囲ではないと判断した。"
+  },
+  {
+    "id": 3,
+    "date": "享保十二年十二月十日",
+    "whole_fire": false,
+    "length_ken": 1080,
+    "width_ken": 300,
+    "length_is_nobe": false,
+    "width_is_average": false,
+    "wind": "烈風大火ト爲リ",
+    "start_time": "申刻",
+    "end_time": "夜半頃鎭",
+    "note": "同じ火事のうち麴町二丁目から六丁目・溜池に至る区域だけの寸法であるため、火事全体ではない。"
+  },
+  {
+    "id": 4,
+    "date": "享保十二年十二月十日",
+    "whole_fire": false,
+    "length_ken": 1020,
+    "width_ken": 120,
+    "length_is_nobe": false,
+    "width_is_average": false,
+    "wind": "烈風大火ト爲リ",
+    "start_time": "申刻",
+    "end_time": "夜半頃鎭",
+    "note": "同じ火事のうち佐久間町から愛宕下・宇田川町を経て金杉表三丁目に至る区域だけの寸法であるため、火事全体ではない。"
+  }
+]

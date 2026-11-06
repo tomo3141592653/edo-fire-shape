@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "whole_fire": true,
+    "length_ken": 6480,
+    "width_ken": 1800,
+    "length_is_nobe": false,
+    "width_is_average": false,
+    "wind": "夫〓風替り",
+    "start_time": null,
+    "end_time": null,
+    "note": "火災全域の境界を列挙した後の総括値と判断し、「餘」は換算値に加えていない。"
+  },
+  {
+    "id": 2,
+    "whole_fire": true,
+    "length_ken": 8640,
+    "width_ken": 1800,
+    "length_is_nobe": false,
+    "width_is_average": false,
+    "wind": "北西風强し",
+    "start_time": null,
+    "end_time": "申の下刻",
+    "note": "後続の日記も同じ正德三年十二月二十二日の火災を記す別史料と判断したが、「朝五」は出火時刻まで判読できないため採らなかった。"
+  },
+  {
+    "id": 3,
+    "whole_fire": true,
+    "length_ken": 1800,
+    "width_ken": 270,
+    "length_is_nobe": false,
+    "width_is_average": false,
+    "wind": null,
+    "start_time": null,
+    "end_time": "申下刻過",
+    "note": "「四五丁」は四町と五町の中間である四町半として換算し、後続する享保六年の別火災の北風は含めていない。"
+  },
+  {
+    "id": 4,
+    "whole_fire": true,
+    "length_ken": 2100,
+    "width_ken": 120,
+    "length_is_nobe": false,
+    "width_is_average": false,
+    "wind": null,
+    "start_time": null,
+    "end_time": null,
+    "note": "列挙された牛込・市谷方面の火災全体の総括値で、直後の「同日未上刻」は麴町から出た別火災の出火時刻と判断した。"
+  },
+  {
+    "id": 5,
+    "whole_fire": false,
+    "length_ken": 2280,
+    "width_ken": 180,
+    "length_is_nobe": false,
+    "width_is_average": false,
+    "wind": null,
+    "start_time": null,
+    "end_time": "夜亥刻頃鎭",
+    "note": "「二口合」と明記された複数の延焼口の合計値であり、一つの焼失区域全体の寸法とは判断しなかった。"
+  },
+  {
+    "id": 6,
+    "whole_fire": false,
+    "length_ken": 5520,
+    "width_ken": 180,
+    "length_is_nobe": false,
+    "width_is_average": false,
+    "wind": null,
+    "start_time": null,
+    "end_time": "夜亥刻頃鎭",
+    "note": "直前の「二口合」が幅三町・長九十二町の双方に掛かると読み、複数の延焼口を合算した値と判断した。"
+  },
+  {
+    "id": 7,
+    "whole_fire": true,
+    "length_ken": 6480,
+    "width_ken": 600,
+    "length_is_nobe": false,
+    "width_is_average": true,
+    "wind": null,
+    "start_time": null,
+    "end_time": "九ツ時比相鎭り申候",
+    "note": "焼失場所の外周と内部の焼失を述べた直後の総括値なので、火災全体の範囲と判断した。"
+  },
+  {
+    "id": 8,
+    "whole_fire": false,
+    "length_ken": 2320,
+    "width_ken": 107,
+    "length_is_nobe": false,
+    "width_is_average": true,
+    "wind": "今夜さ以てひま風をつかまして",
+    "start_time": null,
+    "end_time": "曉る頃やひよもやまの火なへて志つまりぬ",
+    "note": "対象値は市中各区域のうち「日本橋北」だけの寸法であり、同時に発生した焼失区域全体の値ではない。"
+  }
+]

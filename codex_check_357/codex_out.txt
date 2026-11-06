@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "whole_fire": true,
+    "length_ken": 3960,
+    "width_ken": 570,
+    "length_is_nobe": false,
+    "width_is_average": false,
+    "wind": "西北之風烈敷",
+    "start_time": "八ツ半頃",
+    "end_time": null,
+    "note": "「平均」は長さに付くと読め、数値の「餘」は換算に含めなかった。"
+  }
+]

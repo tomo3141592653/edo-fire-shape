@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "whole_fire": true,
+    "length_ken": 8640,
+    "width_ken": 2160,
+    "length_is_nobe": false,
+    "width_is_average": false,
+    "wind": "西北風日夜吹詰",
+    "start_time": null,
+    "end_time": "夜明方に火留る",
+    "note": "先行する四谷の火事ではなく、「暫時有て」牛込山伏町から出火した火事全体の範囲と判断した。"
+  },
+  {
+    "id": 2,
+    "whole_fire": true,
+    "length_ken": 12960,
+    "width_ken": 2160,
+    "length_is_nobe": false,
+    "width_is_average": false,
+    "wind": null,
+    "start_time": null,
+    "end_time": null,
+    "note": "本文では幅は一里を超え、長さは六里未満という概数なので、それぞれ基準となる一里・六里を換算した。"
+  },
+  {
+    "id": 3,
+    "whole_fire": true,
+    "length_ken": 12960,
+    "width_ken": 4320,
+    "length_is_nobe": false,
+    "width_is_average": false,
+    "wind": null,
+    "start_time": null,
+    "end_time": null,
+    "note": "同じ大火全体について異なる書付の数値を並べた箇所で、本文の筆者は別に「四里餘」を事実に近いとしている。"
+  },
+  {
+    "id": 4,
+    "whole_fire": false,
+    "length_ken": 3240,
+    "width_ken": 2160,
+    "length_is_nobe": false,
+    "width_is_average": false,
+    "wind": "西北風こて",
+    "start_time": null,
+    "end_time": null,
+    "note": "一橋御守殿付近からの火事全体ではなく、駿河台鈴木町へ飛び火した後の焼失区域を示す数値と判断した。"
+  },
+  {
+    "id": 5,
+    "whole_fire": false,
+    "length_ken": 12960,
+    "width_ken": 2160,
+    "length_is_nobe": false,
+    "width_is_average": false,
+    "wind": "晦日巳刻北風にかはり、或東風に成",
+    "start_time": "同日暮六時",
+    "end_time": "未刻雙方の火鎭り",
+    "note": "本文は丸山田町など別口の出火を含み「雙方の火」としているため、複数の火事を合わせた範囲と判断した。"
+  }
+]

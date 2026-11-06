@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "whole_fire": true,
+    "length_ken": 930,
+    "width_ken": 30,
+    "length_is_nobe": false,
+    "width_is_average": true,
+    "wind": "南大風",
+    "start_time": "今曉八時頃",
+    "end_time": "夕八時頃鎭る",
+    "note": "「長凢」は「長凡」のOCR表記と判断し、十五町半を火災全体の概略長として換算した。"
+  }
+]

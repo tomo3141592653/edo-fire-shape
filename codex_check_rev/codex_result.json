@@ -1,0 +1,50 @@
+[
+ {
+  "id": 1,
+  "whole_fire": true,
+  "length_ken": 930,
+  "width_ken": 180,
+  "length_is_nobe": false,
+  "width_is_average": false,
+  "wind": "乾風烈",
+  "start_time": "夜子ノ刻",
+  "end_time": "廿一日朝辰ノ刻鎭ル",
+  "note": "長さの「十五六町」は中間の十五町半として換算した。"
+ },
+ {
+  "id": 2,
+  "whole_fire": true,
+  "length_ken": 2135,
+  "width_ken": 600,
+  "length_is_nobe": false,
+  "width_is_average": false,
+  "wind": null,
+  "start_time": "同日酉刻",
+  "end_time": "翌七日八ツ時火留る",
+  "note": "同日の芝増上寺前の火事とは別で、神田旅籠町から深川洲崎まで延焼した火事を指す。"
+ },
+ {
+  "id": 3,
+  "whole_fire": true,
+  "length_ken": 4320,
+  "width_ken": 120,
+  "length_is_nobe": false,
+  "width_is_average": false,
+  "wind": "江戶表快天續寒風强",
+  "start_time": "廿二日晝四時前",
+  "end_time": "翌廿三日夜鎭火",
+  "note": "「計」は概数を示すものと判断し、二里・二町をそのまま換算した。"
+ },
+ {
+  "id": 4,
+  "whole_fire": false,
+  "length_ken": 2280,
+  "width_ken": 144,
+  "length_is_nobe": false,
+  "width_is_average": true,
+  "wind": "今夜さ以てひま風をつかまして",
+  "start_time": null,
+  "end_time": "曉る頃やひよもやまの火なへて志つまりぬ",
+  "note": "対象の幅は直前の区域に属し、日本橋北の幅は本文では「壹町四十七間程」なので、対象の長さと幅は同一区域の組ではない。"
+ }
+]

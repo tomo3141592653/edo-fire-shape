@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "whole_fire": true,
+    "length_ken": 1980,
+    "width_ken": 240,
+    "length_is_nobe": false,
+    "width_is_average": true,
+    "wind": "西北大風",
+    "start_time": "巳刻過",
+    "end_time": "夜戌下刻",
+    "note": "長さ・幅は列挙された焼失地域全体の規模と判断し、「餘」は数値に加算できないため三十三丁・四丁として換算した。"
+  }
+]
